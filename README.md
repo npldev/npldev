@@ -2,8 +2,8 @@
 
 Salut, je suis passionné de programmation, j'en fait à très grand rythme depuis début Septembre 2020, notamment graçe à mon BTS Sio. Je m'amuse à faire toutes sortes de choses petits ou grands programmes, selon ma volonté 😀. (Je joue aussi), un peu trop parfois..
 
-> Age » 18ans
-> Études » BTS SIO (Première année)
+> Age » 18ans\n
+> Études » BTS SIO (Première année)\n
 > Sport » Musculation
 
 [Monsiteweb]: https://nathancreations.fr
