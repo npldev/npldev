@@ -17,4 +17,3 @@ Salut, je suis passionné de programmation, j'en fait à très grand rythme depu
 ---
 
 
-![npldev's github stats](https://github-readme-stats.vercel.app/api?username=npldev&show_icons=true&hide_border=true)
